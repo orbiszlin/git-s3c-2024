@@ -1,4 +1,4 @@
-# git-s3c-2024
+# GIT S3C 2024
 
 ## Contributors
 
